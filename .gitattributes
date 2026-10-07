@@ -1,0 +1,2 @@
+# append-only logs: keep both machines' lines on merge
+*.jsonl merge=union

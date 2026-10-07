@@ -1,0 +1,16 @@
+# myGeeKy sync: never commit these
+model.pkl
+*.pkl
+avatar_cache/
+logs/
+activity_cache.json
+beacons_cache.json
+.path_offered
+update_check.json
+token_check.json
+news.json
+trends.json
+papers_cache.json
+interest_seen.json
+*.token
+*.lock
