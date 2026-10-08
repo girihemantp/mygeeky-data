@@ -1,0 +1,5 @@
+{"at": "2026-10-07T19:39:19+00:00", "kind": "repo", "source": "keycloak/keycloak", "terms": {"keycloak": 0.2222, "identity": 0.1111, "access": 0.1111, "management": 0.1111, "modern": 0.1111, "applications": 0.1111, "services": 0.1111, "java": 0.1111}}
+{"at": "2026-10-07T19:39:30+00:00", "kind": "repo", "source": "github/scientist", "terms": {"ruby": 0.25, "scientist": 0.125, "microscope": 0.125, "carefully": 0.125, "refactoring": 0.125, "critical": 0.125, "paths": 0.125}}
+{"at": "2026-10-07T19:39:36+00:00", "kind": "repo", "source": "vmtk/vmtk", "terms": {"vmtk": 0.4, "vascular": 0.2, "modeling": 0.2, "c++": 0.2}}
+{"at": "2026-10-07T19:39:55+00:00", "kind": "repo", "source": "gedeck/practical-statistics-for-data-scientists", "terms": {"gedeck": 0.1667, "practical statistics for data scientists": 0.1667, "reilly": 0.1667, "book": 0.1667, "jupyter": 0.1667, "notebook": 0.1667}}
+{"at": "2026-10-08T19:17:28+00:00", "kind": "repo", "source": "juyongjiang/CodeLLMSurvey", "terms": {"juyongjiang": 0.2, "codellmsurvey": 0.2, "survey": 0.2, "language": 0.2, "generation": 0.2}}
