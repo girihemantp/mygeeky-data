@@ -87,7 +87,11 @@
   "beacon_daily_limit": 20,
   "beacon_repeat_days": 30,
   "beacon_weekly_new_people": 5,
-  "badges_seen": [],
+  "badges_seen": [
+    "early:bronze",
+    "everywhere:bronze",
+    "grateful:bronze"
+  ],
   "beacon_quiet": false,
   "beacon_muted": [],
   "beacon_gesture_ttl_days": 90,
